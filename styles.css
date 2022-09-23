@@ -1,5 +1,6 @@
 body {
   background-color: powderblue;
+  font-family: "Noto Sans JP Medium";
 }
 h1 {
   color: blue;
@@ -9,5 +10,4 @@ h2 {
 }
 p {
   color: black;
-  font-family: "NotoSansJP-Regular";
 }
