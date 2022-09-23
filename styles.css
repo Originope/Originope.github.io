@@ -1,12 +1,12 @@
 body {
-  background-color: powderblue;
+  background-color: white;
   font-family: "Noto Sans JP Medium";
 }
 h1 {
-  color: blue;
+  color: black;
 }
 h2 {
-  color: darkred;
+  color: black;
 }
 p {
   color: black;
